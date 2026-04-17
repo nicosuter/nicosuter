@@ -1,6 +1,11 @@
-# Hi there, I'm Nico 👋
+# Hey, I'm Nico 👋
+**Founder @ RGN | BSc CS @ ETH Zurich | ML Systems @ ETH Robotics Club | HPC @ RACKlette**
 
-**Software Engineer | First Year BSc CS Student at ETH Zurich | Entrepreneur**
+I'm fascinated by the applications of deep learning in frontiers like protein folding, particle physics, and robotics.
+
+In 2019, I founded a web development and infrastructure business delivering over 20 projects. In addition, I operate an IP network under AS214770 and a private cloud.
+
+I serve as Infrastructure Lead and ML Engineer/Researcher for the Robot Learning Division at the ETH Robotics Club. As a member of the Executive Team at ESRA, I'm responsible for partnerships between European robotics clubs and industry/academia. Recently, I joined ETH Zurich's HPC competition team, RACKlette.
 
 ### 📫 Connect
 
